@@ -1,7 +1,7 @@
 {
   "name": "wo0ot",
   "main": "./lib/wo0ot",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A short description of your package",
   "activationCommands": {
     "atom-workspace": "wo0ot:toggle"
@@ -11,6 +11,5 @@
   "engines": {
     "atom": "*"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
