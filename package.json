@@ -6,7 +6,7 @@
   "activationCommands": {
     "atom-workspace": "wo0ot:toggle"
   },
-  "repository": "https://github.com/atom/wo0ot",
+  "repository": "https://github.com/davidlemarier/testing",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
