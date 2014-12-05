@@ -1,0 +1,22 @@
+# See https://atom.io/docs/latest/creating-a-package#menus for more details
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Toggle wo0ot'
+      'command': 'wo0ot:toggle'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'wo0ot'
+      'submenu': [
+        {
+          'label': 'Toggle'
+          'command': 'wo0ot:toggle'
+        }
+      ]
+    ]
+  }
+]
